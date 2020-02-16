@@ -1,0 +1,78 @@
+# MPlayer configuration file
+#
+# Configuration files are read system-wide from /usr/local/etc/mplayer.conf
+# and per-user from ~/.mplayer/config, where per-user settings override
+# system-wide settings, all of which are overrriden by the command line.
+#
+# The configuration file settings are the same as the command line
+# options without the preceding '-'.
+#
+# See the CONFIGURATION FILES section in the man page
+# for a detailed description of the syntax.
+#
+# Profiles should be placed at the bottom of the configuration file to ensure
+# that settings wanted as defaults are not restricted to specific profiles.
+
+
+[default]
+
+####################
+# general settings #
+####################
+
+# set multicore
+lavdopts=threads=2
+
+# turns off xscreensaver
+stop-xscreensaver=yes
+
+# display even less output and status messages
+really-quiet=1
+
+##################
+# video settings #
+##################
+
+# set video driver
+# mplayer -vo help for a list
+vo=xv
+
+# use double-buffering
+double=yes
+
+##################
+# audio settings #
+##################
+
+# use alsa, then SDL video with the aalib subdriver by default.
+ao=alsa,sdl:aalib
+
+#####################
+# subtitle settings #
+#####################
+
+# set font encoding
+subfont-encoding=unicode
+
+# resample the font alphamap
+ffactor=10
+
+# set subtitle position
+subpos=100
+
+# set subtitle alignment at its position
+subalign=2
+
+# set font blur radius
+subfont-blur=1.1
+
+# set font outline thickness
+subfont-outline=1.2
+
+# set autoscale coefficient
+subfont-text-scale=2.5
+
+#######
+# OSD #
+#######
+subfont-osd-scale=2
