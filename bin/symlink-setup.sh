@@ -56,6 +56,7 @@ execute() {
 create_symlinks() {
   declare -A FILES_TO_SYMLINK=(
     ["src/git/gitconfig"]="$HOME/.gitconfig"
+    ["src/shell/zshrc"]="$HOME/.zshrc"
     ["src/shell/powerlevel9k"]="$HOME/.powerlevel9k"
     ["src/colorls/config"]="$HOME/.config/colorls/config"
     ["src/terminator/config"]="$HOME/.config/terminator/config"
