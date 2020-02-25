@@ -29,3 +29,6 @@ plugins=(
 )
 
 source $ZSH/oh-my-zsh.sh
+
+# Include local settings
+[[ -f ~/.zshrc.local ]] && . ~/.zshrc.local
