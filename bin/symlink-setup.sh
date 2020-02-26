@@ -72,22 +72,36 @@ execute() {
 }
 
 create_symlinks() {
-  declare -A FILES_TO_SYMLINK=(
-    ["src/git/gitconfig"]="$HOME/.gitconfig"
-    ["src/shell/zshrc"]="$HOME/.zshrc"
-    ["src/shell/powerlevel9k"]="$HOME/.powerlevel9k"
-    ["src/colorls/config"]="$HOME/.config/colorls/config"
-    ["src/terminator/config"]="$HOME/.config/terminator/config"
+  local os="$(get_os)"
+
+  declare -a FILES_TO_SYMLINK=(
+    "src/git/gitconfig" "$HOME/.gitconfig"
+    "src/shell/zshrc" "$HOME/.zshrc"
+    "src/shell/powerlevel9k" "$HOME/.powerlevel9k"
+    "src/colorls/config" "$HOME/.config/colorls/config"
   )
+
+  if [ "$os" == "macos" ]; then
+    local iterm2Config="com.googlecode.iterm2.plist"
+    FILES_TO_SYMLINK+=(
+      "src/iterm2/$iterm2Config" "$HOME/.config/iterm2/$iterm2Config"
+    )
+  else
+    FILES_TO_SYMLINK+=(
+      "src/terminator/config" "$HOME/.config/terminator/config"
+    )
+  fi
 
   local i=""
   local sourceFile=""
   local targetFile=""
 
-  for key in "${!FILES_TO_SYMLINK[@]}"; do
+  local len=${#FILES_TO_SYMLINK[*]}
+  for (( i=0 ; i<${len}; i++ )); do
 
-    sourceFile="$(pwd)/$key"
-    targetFile="${FILES_TO_SYMLINK[$key]}"
+    sourceFile="$(pwd)/${FILES_TO_SYMLINK[$i]}"
+    ((i=i+1))
+    targetFile="${FILES_TO_SYMLINK[$i]}"
 
     if [ -e "$targetFile" ]; then
       if [ "$(readlink "$targetFile")" != "$sourceFile" ]; then
