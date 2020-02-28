@@ -24,6 +24,7 @@ plugins=(
   npm
   nvm
   pyenv
+  rbenv
   zsh-autosuggestions
   zsh-syntax-highlighting
 )
