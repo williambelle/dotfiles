@@ -89,6 +89,8 @@ create_symlinks() {
   else
     FILES_TO_SYMLINK+=(
       "src/terminator/config" "$HOME/.config/terminator/config"
+      "src/mplayer/config" "$HOME/.config/mplayer/config"
+      "src/mplayer/input.conf" "$HOME/.config/mplayer/input.conf"
     )
   fi
 
