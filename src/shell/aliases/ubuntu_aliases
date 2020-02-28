@@ -1,0 +1,7 @@
+# Lock screen
+alias afk='xdg-screensaver lock'
+
+# Shorter commands for apt
+alias apti='sudo apt install'
+alias aptd='sudo apt update'
+alias aptg='sudo apt upgrade'
