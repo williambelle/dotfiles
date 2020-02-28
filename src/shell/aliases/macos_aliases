@@ -1,0 +1,7 @@
+# Lock screen
+alias afk='/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend'
+
+# Shorter commands for brew
+alias brewi='brew install'
+alias brewd='brew update'
+alias brewg='brew upgrade'
