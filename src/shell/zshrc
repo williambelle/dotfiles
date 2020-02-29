@@ -31,5 +31,11 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 
+# Load the shell dotfiles.
+for file in ~/.{aliases_os,aliases}; do
+  [ -r "$file" ] && source "$file"
+done
+unset file
+
 # Include local settings
 [[ -f ~/.zshrc.local ]] && . ~/.zshrc.local

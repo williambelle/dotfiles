@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 #
-# Symlink all the dotfiles to ~/
+# Symlink all the dotfiles.
 #
 # Heavily inspired from paulirish's work
 # See https://github.com/paulirish/dotfiles/blob/master/symlink-setup.sh
@@ -77,6 +77,7 @@ create_symlinks() {
   declare -a FILES_TO_SYMLINK=(
     "src/git/gitconfig" "$HOME/.gitconfig"
     "src/shell/zshrc" "$HOME/.zshrc"
+    "src/shell/aliases/aliases" "$HOME/.aliases"
     "src/shell/powerlevel9k" "$HOME/.powerlevel9k"
     "src/colorls/config" "$HOME/.config/colorls/config"
   )
@@ -84,10 +85,12 @@ create_symlinks() {
   if [ "$os" == "macos" ]; then
     local iterm2Config="com.googlecode.iterm2.plist"
     FILES_TO_SYMLINK+=(
+      "src/shell/aliases/macos_aliases" "$HOME/.aliases_os"
       "src/iterm2/$iterm2Config" "$HOME/.config/iterm2/$iterm2Config"
     )
   else
     FILES_TO_SYMLINK+=(
+      "src/shell/aliases/ubuntu_aliases" "$HOME/.aliases_os"
       "src/terminator/config" "$HOME/.config/terminator/config"
       "src/mplayer/config" "$HOME/.config/mplayer/config"
       "src/mplayer/input.conf" "$HOME/.config/mplayer/input.conf"
