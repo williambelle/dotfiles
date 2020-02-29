@@ -1,0 +1,7 @@
+# Color LS
+# See https://github.com/athityakumar/colorls
+alias ls="colorls --sd -A"
+
+# EPFL
+alias ldapse='ldapsearch -x -LLL -H ldap://ldap.epfl.ch/ -b '\''c=ch'\'''
+alias scoldapse='ldapsearch -x -LLL -H ldap://scoldap.epfl.ch/ -b '\''o=epfl,c=ch'\'''
