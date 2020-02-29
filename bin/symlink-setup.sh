@@ -77,6 +77,7 @@ create_symlinks() {
   declare -a FILES_TO_SYMLINK=(
     "src/git/gitconfig" "$HOME/.gitconfig"
     "src/shell/zshrc" "$HOME/.zshrc"
+    "src/shell/exports" "$HOME/.exports"
     "src/shell/aliases/aliases" "$HOME/.aliases"
     "src/shell/powerlevel9k" "$HOME/.powerlevel9k"
     "src/colorls/config" "$HOME/.config/colorls/config"
