@@ -78,6 +78,7 @@ create_symlinks() {
     "src/git/gitconfig" "$HOME/.gitconfig"
     "src/shell/zshrc" "$HOME/.zshrc"
     "src/shell/exports" "$HOME/.exports"
+    "src/shell/functions" "$HOME/.functions"
     "src/shell/aliases/aliases" "$HOME/.aliases"
     "src/shell/powerlevel9k" "$HOME/.powerlevel9k"
     "src/colorls/config" "$HOME/.config/colorls/config"

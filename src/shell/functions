@@ -1,0 +1,32 @@
+# Makes a new dir and jumps into it.
+function mcd() {
+  mkdir -p "$1" && cd "$1"
+}
+
+# Get gzipped size.
+function gz() {
+  echo "orig size    (bytes): "
+  cat "$1" | wc -c
+  echo "gzipped size (bytes): "
+  gzip -c "$1" | wc -c
+}
+
+# Preview csv files.
+# http://stackoverflow.com/questions/1875305/command-line-csv-viewer
+function csvpreview(){
+  sed 's/,,/, ,/g;s/,,/, ,/g' "$@" | column -s, -t | less -
+}
+
+# Display terminal colors
+# https://askubuntu.com/questions/27314/script-to-display-all-terminal-colors
+function shellcolors() {
+  for x in {0..1}; do
+    for i in {30..37}; do
+      for a in {40..47}; do
+        echo -ne "\e[$x;$i;$a""m\\\e[$x;$i;$a""m\e[0;37;40m "
+      done
+      echo
+    done
+  done
+  echo ""
+}
