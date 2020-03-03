@@ -1,0 +1,26 @@
+"*":
+  core:
+    allowPendingPaneItems: false
+    disabledPackages: [
+      "exception-reporting"
+      "metrics"
+      "whitespace"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  editor:
+    fontSize: 12
+    showInvisibles: true
+  "linter-ui-default":
+    panelHeight: 173
+    showPanel: true
+  "seti-syntax":
+    themeColor: "Pink"
+  "seti-ui":
+    compactView: true
+    themeColor: "Pink"
+  welcome:
+    showOnStartup: false
