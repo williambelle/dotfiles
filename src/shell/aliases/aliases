@@ -1,6 +1,6 @@
 # Color LS
 # See https://github.com/athityakumar/colorls
-alias ls="colorls --sd -A"
+alias ls='colorls --sd -A'
 
 # EPFL LDAP
 alias ldapse='ldapsearch -x -LLL -H ldap://ldap.epfl.ch/ -b '\''c=ch'\'''
@@ -9,3 +9,6 @@ alias scoldapse='ldapsearch -x -LLL -H ldap://scoldap.epfl.ch/ -b '\''o=epfl,c=c
 # EPFL Service Open
 # https://metacpan.org/pod/distribution/EPFL-Service-Open/bin/epfl-service-open
 alias eso='epfl-service-open >/dev/null'
+
+# IP address
+alias ip='dig +short myip.opendns.com @resolver1.opendns.com'
