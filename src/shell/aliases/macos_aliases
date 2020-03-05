@@ -6,5 +6,8 @@ alias brewi='brew install'
 alias brewd='brew update'
 alias brewg='brew upgrade'
 
+# Recursively delete `.DS_Store` files
+alias cleanup="find . -type f -name '*.DS_Store' -ls -delete"
+
 # Flush Directory Service cache
 alias flush="dscacheutil -flushcache && killall -HUP mDNSResponder"
