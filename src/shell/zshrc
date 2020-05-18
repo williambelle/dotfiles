@@ -21,6 +21,7 @@ plugins=(
   django
   fabric
   git
+  kubectl
   npm
   nvm
   pyenv
