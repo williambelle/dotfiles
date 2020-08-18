@@ -11,6 +11,9 @@ export MANPAGER='less -X'
 # Make Python use UTF-8 encoding for output to stdin/stdout/stderr.
 export PYTHONIOENCODING='UTF-8'
 
+# Disable Bytecode files (.pyc)
+export PYTHONDONTWRITEBYTECODE=1
+
 # Yarn's path.
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
