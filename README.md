@@ -12,7 +12,7 @@ These are the base dotfiles that I start with when I set up a new environment.
 * `.aliases_os`
 * `.exports`
 * `.functions`
-* `.powerlevel9k`
+* `.powerlevel10k`
 * `.zshrc`
 * `.zshrc.local` - not included, explained below
 

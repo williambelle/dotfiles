@@ -1,4 +1,4 @@
-# Powerlevel9k config
+# Powerlevel10k config
 POWERLEVEL9K_MODE=nerdfont-complete
 
 POWERLEVEL9K_DIR_HOME_FOREGROUND=015

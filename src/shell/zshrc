@@ -1,9 +1,9 @@
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
-# powerlevel9k Prompt Customization.
+# Powerlevel10k Prompt Customization.
 # See https://github.com/Powerlevel9k/powerlevel9k#prompt-customization
-source ~/.powerlevel9k
+source ~/.powerlevel10k
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
