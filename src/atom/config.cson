@@ -12,6 +12,7 @@
       "seti-syntax"
     ]
   editor:
+    defaultFontSize: 12
     fontSize: 12
     showInvisibles: true
   "linter-jshint":
