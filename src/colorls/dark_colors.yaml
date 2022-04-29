@@ -1,6 +1,7 @@
 # Main Colors
-unrecognized_file: gold
+unrecognized_file: limegreen
 recognized_file:   limegreen
+executable_file:   lime
 dir:               dodgerblue
 
 # Link
@@ -35,6 +36,7 @@ tree:   cyan
 empty:  yellow
 error:  red
 normal: darkkhaki
+inode: moccasin
 
 # Git
 addition:     chartreuse
