@@ -20,6 +20,9 @@
   "linter-ui-default":
     panelHeight: 173
     showPanel: true
+  "prettier-atom":
+    formatOnSaveOptions:
+      isDisabledIfNoConfigFile: true
   "seti-syntax":
     themeColor: "Pink"
   "seti-ui":
