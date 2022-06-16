@@ -1,0 +1,14 @@
+{
+  "workbench.startupEditor": "none",
+  "editor.fontSize": 12,
+  "editor.renderWhitespace": "all",
+  "editor.smoothScrolling": true,
+  "editor.cursorBlinking": "phase",
+  "editor.minimap.enabled": false,
+  "workbench.list.openMode": "doubleClick",
+  "files.trimFinalNewlines": true,
+  "workbench.colorTheme": "Seti Monokai: Original",
+  "workbench.iconTheme": "seti",
+  "html.format.wrapLineLength": 80,
+  "editor.rulers": [80]
+}
