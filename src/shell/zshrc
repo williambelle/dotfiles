@@ -23,6 +23,7 @@ plugins=(
   kubectl
   npm
   nvm
+  oc
   pyenv
   rbenv
   zsh-autosuggestions
