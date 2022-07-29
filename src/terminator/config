@@ -1,6 +1,16 @@
 [global_config]
   suppress_multiple_term_dialog = True
+  case_sensitive = False
 [keybindings]
+[profiles]
+  [[default]]
+    background_color = "#121212"
+    cursor_color = "#bbbbbb"
+    font = Hack Nerd Font 9
+    foreground_color = "#bbbbbb"
+    scrollback_infinite = True
+    palette = "#121212:#fa2573:#98e123:#dfd460:#1080d0:#8700ff:#43a8d0:#bbbbbb:#555555:#f6669d:#b1e05f:#fff26d:#00afff:#af87ff:#51ceff:#ffffff"
+    use_system_font = False
 [layouts]
   [[default]]
     [[[child0]]]
@@ -52,13 +62,3 @@
       profile = default
       type = Terminal
 [plugins]
-[profiles]
-  [[default]]
-    background_color = "#121212"
-    cursor_color = "#bbbbbb"
-    font = Hack Nerd Font 9
-    foreground_color = "#bbbbbb"
-    palette = "#121212:#fa2573:#98e123:#dfd460:#1080d0:#8700ff:#43a8d0:#bbbbbb:#555555:#f6669d:#b1e05f:#fff26d:#00afff:#af87ff:#51ceff:#ffffff"
-    scroll_on_keystroke = True
-    scrollback_infinite = True
-    use_system_font = False
