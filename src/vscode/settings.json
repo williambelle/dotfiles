@@ -10,5 +10,8 @@
   "workbench.colorTheme": "One Dark Pro Darker",
   "workbench.iconTheme": "seti",
   "html.format.wrapLineLength": 80,
-  "editor.rulers": [80]
+  "editor.rulers": [
+    80
+  ],
+  "gitblame.statusBarMessageClickAction": "Open tool URL"
 }
