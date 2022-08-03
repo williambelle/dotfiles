@@ -1,3 +1,7 @@
+# This will automatically load a node version when it finds a .nvmrc file
+# in the current working directory indicating which node version to load.
+export NVM_AUTOLOAD=1
+
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
