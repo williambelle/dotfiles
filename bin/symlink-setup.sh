@@ -97,6 +97,7 @@ create_symlinks() {
       "src/terminator/config" "$HOME/.config/terminator/config"
       "src/mplayer/config" "$HOME/.config/mplayer/config"
       "src/mplayer/input.conf" "$HOME/.config/mplayer/input.conf"
+      "src/vscode/settings.json" "$HOME/.config/Code/User/settings.json"
     )
   fi
 
