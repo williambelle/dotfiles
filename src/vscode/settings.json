@@ -8,7 +8,7 @@
   "workbench.list.openMode": "doubleClick",
   "files.trimFinalNewlines": true,
   "workbench.colorTheme": "One Dark Pro Darker",
-  "workbench.iconTheme": "seti",
+  "workbench.iconTheme": "vscode-icons",
   "html.format.wrapLineLength": 80,
   "editor.rulers": [
     80
