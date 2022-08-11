@@ -46,6 +46,16 @@ existing aliases, settings, `PATH`, etc.
 Use `~/.gitconfig.local` to store sensitive information such as the `Git`
 user credentials, etc.
 
+Extensions
+----------
+
+#### Visual Studio Code
+
+```bash
+./bin/vscode-extension.sh -i  # Install list of exported VS Code extensions
+./bin/vscode-extension.sh -e  # Export list of installed VS Code extensions
+```
+
 Screenshots
 -----------
 
