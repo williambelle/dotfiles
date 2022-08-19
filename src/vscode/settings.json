@@ -16,5 +16,6 @@
   "gitblame.statusBarMessageClickAction": "Open tool URL",
   "terminal.integrated.fontSize": 12,
   "terminal.integrated.fontFamily": "Hack Nerd Font",
-  "telemetry.telemetryLevel": "off"
+  "telemetry.telemetryLevel": "off",
+  "gitlens.codeLens.enabled": false
 }
