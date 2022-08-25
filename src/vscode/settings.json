@@ -1,21 +1,21 @@
 {
-  "workbench.startupEditor": "none",
-  "editor.fontSize": 12,
-  "editor.renderWhitespace": "all",
-  "editor.smoothScrolling": true,
   "editor.cursorBlinking": "phase",
+  "editor.fontSize": 12,
   "editor.minimap.enabled": false,
-  "workbench.list.openMode": "doubleClick",
-  "files.trimFinalNewlines": true,
-  "workbench.colorTheme": "One Dark Pro Darker",
-  "workbench.iconTheme": "vscode-icons",
-  "html.format.wrapLineLength": 80,
+  "editor.renderWhitespace": "all",
   "editor.rulers": [
     80
   ],
+  "editor.smoothScrolling": true,
+  "files.trimFinalNewlines": true,
   "gitblame.statusBarMessageClickAction": "Open tool URL",
-  "terminal.integrated.fontSize": 12,
-  "terminal.integrated.fontFamily": "Hack Nerd Font",
+  "gitlens.codeLens.enabled": false,
+  "html.format.wrapLineLength": 80,
   "telemetry.telemetryLevel": "off",
-  "gitlens.codeLens.enabled": false
+  "terminal.integrated.fontFamily": "Hack Nerd Font",
+  "terminal.integrated.fontSize": 12,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.list.openMode": "doubleClick",
+  "workbench.startupEditor": "none"
 }
