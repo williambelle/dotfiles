@@ -11,6 +11,8 @@
   "gitblame.statusBarMessageClickAction": "Open tool URL",
   "gitlens.codeLens.enabled": false,
   "html.format.wrapLineLength": 80,
+  "sortLines.filterBlankLines": true,
+  "sortLines.sortEntireFile": true,
   "telemetry.telemetryLevel": "off",
   "terminal.integrated.fontFamily": "Hack Nerd Font",
   "terminal.integrated.fontSize": 12,
