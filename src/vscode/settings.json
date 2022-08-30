@@ -11,6 +11,7 @@
   "gitblame.statusBarMessageClickAction": "Open tool URL",
   "gitlens.codeLens.enabled": false,
   "html.format.wrapLineLength": 80,
+  "redhat.telemetry.enabled": false,
   "sortLines.filterBlankLines": true,
   "sortLines.sortEntireFile": true,
   "telemetry.telemetryLevel": "off",
