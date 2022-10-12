@@ -5,6 +5,7 @@ eamodio.gitlens
 EditorConfig.EditorConfig
 exiasr.hadolint
 formulahendry.auto-rename-tag
+mrorz.language-gettext
 ms-azuretools.vscode-docker
 ms-python.python
 ms-python.vscode-pylance
