@@ -14,6 +14,11 @@
   "redhat.telemetry.enabled": false,
   "sortLines.filterBlankLines": true,
   "sortLines.sortEntireFile": true,
+  "stylelint.validate": [
+    "css",
+    "scss",
+    "sass"
+  ],
   "telemetry.telemetryLevel": "off",
   "terminal.integrated.fontFamily": "Hack Nerd Font",
   "terminal.integrated.fontSize": 12,
