@@ -1,4 +1,7 @@
 {
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
   "editor.cursorBlinking": "phase",
   "editor.fontSize": 12,
   "editor.minimap.enabled": false,
