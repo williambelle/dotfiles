@@ -10,6 +10,9 @@
     80
   ],
   "editor.smoothScrolling": true,
+  "emmet.includeLanguages": {
+    "django-html": "html"
+  },
   "files.trimFinalNewlines": true,
   "gitblame.statusBarMessageClickAction": "Open tool URL",
   "gitlens.codeLens.enabled": false,
