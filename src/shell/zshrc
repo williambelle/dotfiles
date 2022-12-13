@@ -29,6 +29,7 @@ plugins=(
   nvm
   oc
   pyenv
+  python
   rbenv
   zsh-autosuggestions
   zsh-syntax-highlighting
