@@ -82,7 +82,6 @@ create_symlinks() {
     "src/shell/aliases/aliases" "$HOME/.aliases"
     "src/shell/powerlevel10k" "$HOME/.powerlevel10k"
     "src/colorls/dark_colors.yaml" "$HOME/.config/colorls/dark_colors.yaml"
-    "src/atom/config.cson" "$HOME/.atom/config.cson"
   )
 
   if [ "$os" == "macos" ]; then
