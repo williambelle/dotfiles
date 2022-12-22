@@ -1,12 +1,10 @@
-dotfiles
-========
+# dotfiles
 
-Overview
---------
+## Overview
 
 These are the base dotfiles that I start with when I set up a new environment.
 
-#### shell environment
+### shell environment
 
 * `.aliases`
 * `.aliases_os`
@@ -16,13 +14,12 @@ These are the base dotfiles that I start with when I set up a new environment.
 * `.zshrc`
 * `.zshrc.local` - not included, explained below
 
-#### git
+### git
 
 * `.gitconfig`
 * `.gitconfig.local` - not included, explained below
 
-Setup
------
+## Setup
 
 To set up the dotfiles:
 
@@ -32,45 +29,40 @@ cd dotfiles
 ./bin/symlink-setup.sh
 ```
 
-Customize
----------
+## Customize
 
-#### `~/.zshrc.local`
+### `~/.zshrc.local`
 
 The `~/.zshrc.local` file will be automatically sourced after all the other
 `zsh` related files, thus, allowing its content to add to or overwrite the
 existing aliases, settings, `PATH`, etc.
 
-#### `~/.gitconfig.local`
+### `~/.gitconfig.local`
 
 Use `~/.gitconfig.local` to store sensitive information such as the `Git`
 user credentials, etc.
 
-Extensions
-----------
+## Extensions
 
-#### VSCodium
+### VSCodium
 
 ```bash
 ./bin/vscodium-extension.sh -i  # Install list of exported VSCodium extensions
 ./bin/vscodium-extension.sh -e  # Export list of installed VSCodium extensions
 ```
 
-Screenshots
------------
+## Screenshots
 
 |  macOS                         |  Ubuntu                          |
 |--------------------------------|----------------------------------|
 | ![Setup on macOS][setup macos] | ![Setup on Ubuntu][setup ubuntu] |
 
-See also
---------
+## See also
 
 * [MacOS Setup Guide][setup macos guide]
 * [Ubuntu Setup Guide][setup ubuntu guide]
 
-License
--------
+## License
 
 The MIT License (MIT)
 
