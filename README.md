@@ -49,11 +49,11 @@ user credentials, etc.
 Extensions
 ----------
 
-#### Visual Studio Code
+#### VSCodium
 
 ```bash
-./bin/vscode-extension.sh -i  # Install list of exported VS Code extensions
-./bin/vscode-extension.sh -e  # Export list of installed VS Code extensions
+./bin/vscodium-extension.sh -i  # Install list of exported VSCodium extensions
+./bin/vscodium-extension.sh -e  # Export list of installed VSCodium extensions
 ```
 
 Screenshots
