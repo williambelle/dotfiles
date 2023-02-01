@@ -19,7 +19,7 @@ POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="%F{blue}╰> "
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 POWERLEVEL9K_RPROMPT_ON_NEWLINE=true
 
-POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon dir rbenv pyenv virtualenv nvm kubecontext vcs)
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon dir rbenv virtualenv nvm kubecontext vcs)
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status root_indicator background_jobs command_execution_time time)
 
 POWERLEVEL9K_COMMAND_EXECUTION_TIME_THRESHOLD=0
