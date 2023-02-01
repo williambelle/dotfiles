@@ -3,19 +3,19 @@
 usage() {
   echo "Usage: $0 [options]"
   echo "Options:"
-  echo "  -e    Export VSCodium extensions"
-  echo "  -i    Install VSCodium extensions"
+  echo "  -e    Export VSCode extensions"
+  echo "  -i    Install VSCode extensions"
   exit
 }
 
 export_extensions() {
-  codium --list-extensions | sort | uniq -i > src/vscodium/extensions.list
+  code --list-extensions | sort | uniq -i > src/vscode/extensions.list
 }
 
 import_extensions() {
   while IFS='' read -r LINE || [ -n "${LINE}" ]; do
-    codium --install-extension "${LINE}"
-  done < src/vscodium/extensions.list
+    code --install-extension "${LINE}"
+  done < src/vscode/extensions.list
 }
 
 no_args="true"
