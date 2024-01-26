@@ -12,6 +12,7 @@ formulahendry.auto-rename-tag
 mblode.twig-language-2
 mrorz.language-gettext
 ms-azuretools.vscode-docker
+ms-python.black-formatter
 ms-python.flake8
 ms-python.isort
 ms-python.python
