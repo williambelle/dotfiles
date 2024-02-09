@@ -31,6 +31,7 @@ plugins=(
   pyenv
   python
   rbenv
+  web-search
   zsh-autosuggestions
   zsh-syntax-highlighting
 )
