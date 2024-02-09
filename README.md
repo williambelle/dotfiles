@@ -11,6 +11,7 @@ These are the base dotfiles that I start with when I set up a new environment.
 * `.exports`
 * `.functions`
 * `.powerlevel10k`
+* `.search`
 * `.zshrc`
 * `.zshrc.local` - not included, explained below
 
