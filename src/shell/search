@@ -1,9 +1,10 @@
 ZSH_WEB_SEARCH_ENGINES=(
   epfl         "https://search.epfl.ch/?q="
   epflcourse   "https://search.epfl.ch/?filter=courses&q="
+  epflinside   "https://search.epfl.ch/?filter=inside&q="
+  epflmap      "https://plan.epfl.ch/?room="
   epflnews     "https://search.epfl.ch/?filter=news&q="
   epflpeople   "https://search.epfl.ch/?filter=people&q="
   epflpub      "https://search.epfl.ch/?filter=publications&q="
   epflunit     "https://search.epfl.ch/?filter=unit&q="
-
 )
