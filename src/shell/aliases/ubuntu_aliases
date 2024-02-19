@@ -5,3 +5,6 @@ alias afk='xdg-screensaver lock'
 alias apti='sudo apt install'
 alias aptd='sudo apt update'
 alias aptg='sudo apt upgrade'
+
+# Bat
+alias bat='batcat'
