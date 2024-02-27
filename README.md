@@ -43,9 +43,14 @@ existing aliases, settings, `PATH`, etc.
 Use `~/.gitconfig.local` to store sensitive information such as the `Git`
 user credentials, etc.
 
-## Extensions
+## buku
 
-### VSCode
+```bash
+./bin/buku-bookmarks.sh -i  # Import buku bookmarks
+./bin/buku-bookmarks.sh -e  # Export buku bookmarks
+```
+
+## VSCode
 
 ```bash
 ./bin/vscode-extension.sh -i  # Install list of exported VSCode extensions
