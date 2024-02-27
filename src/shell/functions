@@ -3,6 +3,12 @@ function mcd() {
   mkdir -p "$1" && cd "$1"
 }
 
+# IP address
+function myip() {
+  dig +short txt ch whoami.cloudflare @1.0.0.1 | tr -d '"'
+}
+
+
 # Get gzipped size.
 function gz() {
   echo "orig size    (bytes): "
