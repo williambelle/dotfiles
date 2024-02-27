@@ -1,2 +1,3 @@
 - [GitHub](https://github.com/) <!-- TAGS: git, repository -->
 - [GitLab](https://gitlab.com/) <!-- TAGS: git, repository -->
+- [GitLab EPFL](https://gitlab.epfl.ch/) <!-- TAGS: epfl, git, repository -->
