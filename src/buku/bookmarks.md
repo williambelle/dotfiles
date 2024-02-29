@@ -1,6 +1,7 @@
 - [Bitbucket](https://bitbucket.org/) <!-- TAGS: git,repository -->
 - [c4science](https://c4science.ch/) <!-- TAGS: git,repository -->
 - [DuckDuckGo](https://duckduckgo.com/) <!-- TAGS: search -->
+- [Edu EPFL](https://edu.epfl.ch/) <!-- TAGS: coursebook,epfl,étude,plan,study -->
 - [GitHub](https://github.com/) <!-- TAGS: git,repository -->
 - [GitLab EPFL](https://gitlab.epfl.ch/) <!-- TAGS: epfl,git,repository -->
 - [GitLab](https://gitlab.com/) <!-- TAGS: git,repository -->
