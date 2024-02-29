@@ -5,6 +5,7 @@
 - [GitHub](https://github.com/) <!-- TAGS: git,repository -->
 - [GitLab EPFL](https://gitlab.epfl.ch/) <!-- TAGS: epfl,git,repository -->
 - [GitLab](https://gitlab.com/) <!-- TAGS: git,repository -->
+- [Go EPFL](https://go.epfl.ch/) <!-- TAGS: epfl,short,tool -->
 - [Mail EPFL](https://ewa.epfl.ch/) <!-- TAGS: calendar,epfl,ewa,mail -->
 - [Qwant](https://www.qwant.com/) <!-- TAGS: search -->
 - [Search EPFL](https://search.epfl.ch/) <!-- TAGS: epfl,search -->
