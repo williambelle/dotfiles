@@ -5,4 +5,5 @@
 - [GitLab EPFL](https://gitlab.epfl.ch/) <!-- TAGS: epfl,git,repository -->
 - [GitLab](https://gitlab.com/) <!-- TAGS: git,repository -->
 - [Qwant](https://www.qwant.com/) <!-- TAGS: search -->
+- [Search EPFL](https://search.epfl.ch/) <!-- TAGS: epfl,search -->
 - [Startpage](https://www.startpage.com/) <!-- TAGS: search,startpage -->
