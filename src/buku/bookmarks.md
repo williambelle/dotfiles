@@ -8,4 +8,5 @@
 - [Mail EPFL](https://ewa.epfl.ch/) <!-- TAGS: calendar,epfl,ewa,mail -->
 - [Qwant](https://www.qwant.com/) <!-- TAGS: search -->
 - [Search EPFL](https://search.epfl.ch/) <!-- TAGS: epfl,search -->
+- [ServiceNow EPFL](https://epfl.service-now.com/) <!-- TAGS: change,epfl,ticket -->
 - [Startpage](https://www.startpage.com/) <!-- TAGS: search,startpage -->
