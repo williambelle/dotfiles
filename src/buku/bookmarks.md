@@ -14,5 +14,6 @@
 - [Qwant](https://www.qwant.com/) <!-- TAGS: search -->
 - [Search EPFL](https://search.epfl.ch/) <!-- TAGS: epfl,search -->
 - [ServiceNow EPFL](https://epfl.service-now.com/) <!-- TAGS: change,epfl,ticket -->
+- [Snyk](https://app.snyk.io/) <!-- TAGS: ci,monitoring,notification,repository,security -->
 - [Startpage](https://www.startpage.com/) <!-- TAGS: search,startpage -->
 - [Travis CI](https://app.travis-ci.com/) <!-- TAGS: ci,cd,test -->
