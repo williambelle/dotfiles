@@ -1,4 +1,5 @@
 - [Bitbucket](https://bitbucket.org/) <!-- TAGS: git,repository -->
+- [BrowserStack](https://www.browserstack.com/) <!-- TAGS: android,ios,test -->
 - [c4science](https://c4science.ch/) <!-- TAGS: git,repository -->
 - [DuckDuckGo](https://duckduckgo.com/) <!-- TAGS: search -->
 - [Edu EPFL](https://edu.epfl.ch/) <!-- TAGS: coursebook,epfl,étude,plan,study -->
