@@ -12,3 +12,4 @@
 - [Search EPFL](https://search.epfl.ch/) <!-- TAGS: epfl,search -->
 - [ServiceNow EPFL](https://epfl.service-now.com/) <!-- TAGS: change,epfl,ticket -->
 - [Startpage](https://www.startpage.com/) <!-- TAGS: search,startpage -->
+- [Travis CI](https://app.travis-ci.com/) <!-- TAGS: ci,cd,test -->
