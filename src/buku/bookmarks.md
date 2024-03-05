@@ -2,6 +2,7 @@
 - [BrowserStack](https://www.browserstack.com/) <!-- TAGS: android,ios,test -->
 - [c4science](https://c4science.ch/) <!-- TAGS: git,repository -->
 - [Codecov](https://app.codecov.io/) <!-- TAGS: coverage,test -->
+- [Coveralls](https://coveralls.io/) <!-- TAGS: coverage,test -->
 - [DuckDuckGo](https://duckduckgo.com/) <!-- TAGS: search -->
 - [Edu EPFL](https://edu.epfl.ch/) <!-- TAGS: coursebook,epfl,étude,plan,study -->
 - [GitHub](https://github.com/) <!-- TAGS: git,repository -->
