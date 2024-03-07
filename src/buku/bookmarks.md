@@ -7,6 +7,7 @@
 - [Docker Hub](https://hub.docker.com/) <!-- TAGS: container,docker,image,registry -->
 - [DuckDuckGo](https://duckduckgo.com/) <!-- TAGS: search -->
 - [Edu EPFL](https://edu.epfl.ch/) <!-- TAGS: coursebook,epfl,étude,plan,study -->
+- [EPFL](https://www.epfl.ch/) <!-- TAGS: epfl -->
 - [GitHub](https://github.com/) <!-- TAGS: git,repository -->
 - [GitLab EPFL](https://gitlab.epfl.ch/) <!-- TAGS: epfl,git,repository -->
 - [GitLab](https://gitlab.com/) <!-- TAGS: git,repository -->
