@@ -18,6 +18,7 @@
 - [Mail EPFL](https://ewa.epfl.ch/) <!-- TAGS: calendar,epfl,ewa,mail -->
 - [Mediatheque EPFL](https://mediatheque.epfl.ch/) <!-- TAGS: epfl,image,library,media -->
 - [Memento EPFL](https://memento.epfl.ch/) <!-- TAGS: calendar,epfl,event,ics -->
+- [Poseidon EPFL](https://poseidon.epfl.ch/) <!-- TAGS: epfl,laptop -->
 - [Press review EPFL](https://rdp.epfl.ch/) <!-- TAGS: epfl -->
 - [Qwant](https://www.qwant.com/) <!-- TAGS: search -->
 - [Search EPFL](https://search.epfl.ch/) <!-- TAGS: epfl,search -->
