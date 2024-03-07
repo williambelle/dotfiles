@@ -13,6 +13,7 @@
 - [Go EPFL](https://go.epfl.ch/) <!-- TAGS: epfl,short,tool -->
 - [Libraries.io](https://libraries.io/) <!-- TAGS: ci,monitoring,notification,update,repository -->
 - [Mail EPFL](https://ewa.epfl.ch/) <!-- TAGS: calendar,epfl,ewa,mail -->
+- [Memento EPFL](https://memento.epfl.ch/) <!-- TAGS: calendar,epfl,event,ics -->
 - [Qwant](https://www.qwant.com/) <!-- TAGS: search -->
 - [Search EPFL](https://search.epfl.ch/) <!-- TAGS: epfl,search -->
 - [ServiceNow EPFL](https://epfl.service-now.com/) <!-- TAGS: change,epfl,ticket -->
