@@ -23,3 +23,4 @@
 - [Snyk](https://app.snyk.io/) <!-- TAGS: ci,monitoring,notification,repository,security -->
 - [Startpage](https://www.startpage.com/) <!-- TAGS: search,startpage -->
 - [Travis CI](https://app.travis-ci.com/) <!-- TAGS: ci,cd,test -->
+- [Web2010 EPFL](https://www.epfl.ch/templates/) <!-- TAGS: epfl,styleguide,template -->
