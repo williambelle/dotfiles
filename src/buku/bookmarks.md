@@ -11,6 +11,7 @@
 - [Elements EPFL](https://epfl-si.github.io/elements/) <!-- TAGS: epfl,styleguide,template -->
 - [Email Signatures EPFL](https://people.epfl.ch/signatures/) <!-- TAGS: email,epfl,person,signature -->
 - [EPFL](https://www.epfl.ch/) <!-- TAGS: epfl -->
+- [Filmaffinity](https://www.filmaffinity.com/) <!-- TAGS: film,movie,rating,review,serie,tv -->
 - [GitHub](https://github.com/) <!-- TAGS: git,repository -->
 - [GitLab EPFL](https://gitlab.epfl.ch/) <!-- TAGS: epfl,git,repository -->
 - [GitLab](https://gitlab.com/) <!-- TAGS: git,repository -->
