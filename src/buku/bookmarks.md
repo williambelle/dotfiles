@@ -32,3 +32,4 @@
 - [Web Archives EPFL](https://archiveweb.epfl.ch/) <!-- TAGS: archive,epfl -->
 - [Web2010 EPFL](https://www.epfl.ch/templates/) <!-- TAGS: epfl,styleguide,template -->
 - [Web2018 EPFL](https://web2018.epfl.ch/) <!-- TAGS: epfl,styleguide,template -->
+- [Zattoo](https://zattoo.com/) <!-- TAGS: live,streaming,tv -->
