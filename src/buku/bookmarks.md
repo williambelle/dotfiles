@@ -9,6 +9,7 @@
 - [DuckDuckGo](https://duckduckgo.com/) <!-- TAGS: search -->
 - [Edu EPFL](https://edu.epfl.ch/) <!-- TAGS: coursebook,epfl,étude,plan,study -->
 - [Elements EPFL](https://epfl-si.github.io/elements/) <!-- TAGS: epfl,styleguide,template -->
+- [Email Signatures EPFL](https://people.epfl.ch/signatures/) <!-- TAGS: email,epfl,person,signature -->
 - [EPFL](https://www.epfl.ch/) <!-- TAGS: epfl -->
 - [GitHub](https://github.com/) <!-- TAGS: git,repository -->
 - [GitLab EPFL](https://gitlab.epfl.ch/) <!-- TAGS: epfl,git,repository -->
