@@ -19,6 +19,7 @@
 - [GitLab](https://gitlab.com/) <!-- TAGS: git,repository -->
 - [Go EPFL](https://go.epfl.ch/) <!-- TAGS: epfl,short,tool -->
 - [IMDb](https://www.imdb.com/) <!-- TAGS: film,movie,rating,review,serie,tv -->
+- [Keybase](https://keybase.io/)
 - [Libraries.io](https://libraries.io/) <!-- TAGS: ci,monitoring,notification,update,repository -->
 - [Mail EPFL](https://ewa.epfl.ch/) <!-- TAGS: calendar,epfl,ewa,mail -->
 - [Mediatheque EPFL](https://mediatheque.epfl.ch/) <!-- TAGS: epfl,image,library,media -->
