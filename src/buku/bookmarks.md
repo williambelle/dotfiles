@@ -5,6 +5,7 @@
 - [BrowserStack](https://www.browserstack.com/) <!-- TAGS: android,ios,test -->
 - [c4science](https://c4science.ch/) <!-- TAGS: git,repository -->
 - [Codecov](https://app.codecov.io/) <!-- TAGS: coverage,test -->
+- [Confluence EPFL](https://confluence.epfl.ch:8443/) <!-- TAGS: doc,epfl -->
 - [Coveralls](https://coveralls.io/) <!-- TAGS: coverage,test -->
 - [Docker Hub](https://hub.docker.com/) <!-- TAGS: container,docker,image,registry -->
 - [DuckDuckGo](https://duckduckgo.com/) <!-- TAGS: search -->
