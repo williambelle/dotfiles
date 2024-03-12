@@ -1,5 +1,6 @@
 - [Actu EPFL](https://actu.epfl.ch/) <!-- TAGS: epfl,news,newsletter -->
 - [Bitbucket](https://bitbucket.org/) <!-- TAGS: git,repository -->
+- [Blogs EPFL](https://blogs.epfl.ch/) <!-- TAGS: epfl -->
 - [Bootstrap EPFL](https://bootstrap.epfl.ch/) <!-- TAGS: epfl,styleguide,template -->
 - [BrowserStack](https://www.browserstack.com/) <!-- TAGS: android,ios,test -->
 - [c4science](https://c4science.ch/) <!-- TAGS: git,repository -->
