@@ -18,6 +18,7 @@
 - [GitLab EPFL](https://gitlab.epfl.ch/) <!-- TAGS: epfl,git,repository -->
 - [GitLab](https://gitlab.com/) <!-- TAGS: git,repository -->
 - [Go EPFL](https://go.epfl.ch/) <!-- TAGS: epfl,short,tool -->
+- [Groups EPFL](https://groups.epfl.ch/) <!-- TAGS: epfl -->
 - [Guests EPFL](https://guests.epfl.ch/) <!-- TAGS: epfl -->
 - [IMDb](https://www.imdb.com/) <!-- TAGS: film,movie,rating,review,serie,tv -->
 - [Keybase](https://keybase.io/)
