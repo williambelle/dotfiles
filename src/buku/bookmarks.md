@@ -30,6 +30,7 @@
 - [Press review EPFL](https://rdp.epfl.ch/) <!-- TAGS: epfl -->
 - [ProCyclingStats](https://www.procyclingstats.com/) <!-- TAGS: cycling,ranking,result,statistics -->
 - [Qwant](https://www.qwant.com/) <!-- TAGS: search -->
+- [Regex 101](https://regex101.com/) <!-- TAGS: explanation,tester -->
 - [Search EPFL](https://search.epfl.ch/) <!-- TAGS: epfl,search -->
 - [ServiceNow EPFL](https://epfl.service-now.com/) <!-- TAGS: change,epfl,ticket -->
 - [Snyk](https://app.snyk.io/) <!-- TAGS: ci,monitoring,notification,repository,security -->
