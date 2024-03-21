@@ -35,6 +35,7 @@ plugins=(
   python
   rbenv
   web-search
+  you-should-use
   zsh-autosuggestions
   zsh-syntax-highlighting
 )
