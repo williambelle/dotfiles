@@ -27,6 +27,7 @@
 - [Mail EPFL](https://ewa.epfl.ch/) <!-- TAGS: calendar,epfl,ewa,mail -->
 - [Mediatheque EPFL](https://mediatheque.epfl.ch/) <!-- TAGS: epfl,image,library,media -->
 - [Memento EPFL](https://memento.epfl.ch/) <!-- TAGS: calendar,epfl,event,ics -->
+- [Memray](https://bloomberg.github.io/memray/) <!-- TAGS: memory,profiler,python -->
 - [People EPFL](https://people.epfl.ch/) <!-- TAGS: epfl,person -->
 - [Poseidon EPFL](https://poseidon.epfl.ch/) <!-- TAGS: epfl,laptop -->
 - [Press review EPFL](https://rdp.epfl.ch/) <!-- TAGS: epfl -->
