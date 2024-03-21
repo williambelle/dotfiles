@@ -36,6 +36,7 @@
 - [Regex 101](https://regex101.com/) <!-- TAGS: explanation,tester -->
 - [Search EPFL](https://search.epfl.ch/) <!-- TAGS: epfl,search -->
 - [ServiceNow EPFL](https://epfl.service-now.com/) <!-- TAGS: change,epfl,ticket -->
+- [SnakeViz](https://jiffyclub.github.io/snakeviz/) <!-- TAGS: cprofile,profiler,python,viewer -->
 - [Snyk](https://app.snyk.io/) <!-- TAGS: ci,monitoring,notification,repository,security -->
 - [Startpage](https://www.startpage.com/) <!-- TAGS: search,startpage -->
 - [Travis CI](https://app.travis-ci.com/) <!-- TAGS: ci,cd,test -->
