@@ -36,6 +36,7 @@ plugins=(
   rbenv
   web-search
   you-should-use
+  z
   zsh-autosuggestions
   zsh-syntax-highlighting
 )
