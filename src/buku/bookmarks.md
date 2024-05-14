@@ -31,6 +31,7 @@
 - [Memento EPFL](https://memento.epfl.ch/) <!-- TAGS: calendar,epfl,event,ics -->
 - [Memray](https://bloomberg.github.io/memray/) <!-- TAGS: memory,profiler,python -->
 - [Network EPFL](https://epnet.epfl.ch/) <!-- TAGS: epfl -->
+- [PasteBin EPFL](https://pegasus.epfl.ch/) <!-- TAGS: epfl -->
 - [People EPFL](https://people.epfl.ch/) <!-- TAGS: epfl,person -->
 - [Poseidon EPFL](https://poseidon.epfl.ch/) <!-- TAGS: epfl,laptop -->
 - [Press review EPFL](https://rdp.epfl.ch/) <!-- TAGS: epfl -->
