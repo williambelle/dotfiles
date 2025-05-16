@@ -96,8 +96,8 @@ create_symlinks() {
     FILES_TO_SYMLINK+=(
       "src/shell/aliases/ubuntu_aliases" "$HOME/.aliases_os"
       "src/terminator/config" "$HOME/.config/terminator/config"
-      "src/mplayer/config" "$HOME/.config/mplayer/config"
-      "src/mplayer/input.conf" "$HOME/.config/mplayer/input.conf"
+      "src/mplayer/config" "$HOME/.mplayer/config"
+      "src/mplayer/input.conf" "$HOME/.mplayer/input.conf"
       "src/vscode/settings.json" "$HOME/.config/Code/User/settings.json"
     )
   fi
